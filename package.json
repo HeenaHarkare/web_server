@@ -1,0 +1,29 @@
+{
+  "name": "node-and-mongo-bootcamp",
+  "version": "1.0.0",
+  "description": "web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeenaHarkare/web_server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "heena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeenaHarkare/web_server/issues"
+  },
+  "homepage": "https://github.com/HeenaHarkare/web_server#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  }
+}
